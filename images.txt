@@ -1,5 +1,5 @@
 nginx
-mysql
+mysql:8.0
 nacos
 redis
 #支持私库
